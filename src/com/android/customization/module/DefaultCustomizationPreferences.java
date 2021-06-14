@@ -17,7 +17,7 @@ package com.android.customization.module;
 
 import android.content.Context;
 
-import com.android.wallpaper.module.DefaultWallpaperPreferences;
+import com.android.wallpaper3.module.DefaultWallpaperPreferences;
 
 public class DefaultCustomizationPreferences extends DefaultWallpaperPreferences
         implements CustomizationPreferences {

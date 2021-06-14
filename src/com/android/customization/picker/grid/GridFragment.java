@@ -20,7 +20,7 @@ import static android.app.Activity.RESULT_OK;
 import static com.android.customization.picker.ViewOnlyFullPreviewActivity.SECTION_GRID;
 import static com.android.customization.picker.grid.GridFullPreviewFragment.EXTRA_GRID_OPTION;
 import static com.android.customization.picker.grid.GridFullPreviewFragment.EXTRA_WALLPAPER_INFO;
-import static com.android.wallpaper.widget.BottomActionBar.BottomAction.APPLY;
+import static com.android.wallpaper3.widget.BottomActionBar.BottomAction.APPLY;
 
 import android.content.Context;
 import android.content.Intent;
@@ -46,12 +46,12 @@ import com.android.customization.module.ThemesUserEventLogger;
 import com.android.customization.picker.ViewOnlyFullPreviewActivity;
 import com.android.customization.picker.WallpaperPreviewer;
 import com.android.customization.widget.OptionSelectorController;
-import com.android.wallpaper.R;
-import com.android.wallpaper.model.WallpaperInfo;
-import com.android.wallpaper.module.CurrentWallpaperInfoFactory;
-import com.android.wallpaper.module.InjectorProvider;
-import com.android.wallpaper.picker.AppbarFragment;
-import com.android.wallpaper.widget.BottomActionBar;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.model.WallpaperInfo;
+import com.android.wallpaper3.module.CurrentWallpaperInfoFactory;
+import com.android.wallpaper3.module.InjectorProvider;
+import com.android.wallpaper3.picker.AppbarFragment;
+import com.android.wallpaper3.widget.BottomActionBar;
 
 import com.bumptech.glide.Glide;
 

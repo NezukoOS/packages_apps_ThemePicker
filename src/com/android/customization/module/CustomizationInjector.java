@@ -22,7 +22,7 @@ import androidx.fragment.app.FragmentActivity;
 import com.android.customization.model.theme.OverlayManagerCompat;
 import com.android.customization.model.theme.ThemeBundleProvider;
 import com.android.customization.model.theme.ThemeManager;
-import com.android.wallpaper.module.Injector;
+import com.android.wallpaper3.module.Injector;
 
 public interface CustomizationInjector extends Injector {
 

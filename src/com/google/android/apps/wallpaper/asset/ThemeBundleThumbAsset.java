@@ -26,9 +26,9 @@ import android.os.AsyncTask;
 
 import androidx.annotation.Nullable;
 
-import com.android.wallpaper.asset.Asset;
-import com.android.wallpaper.module.DrawableLayerResolver;
-import com.android.wallpaper.module.InjectorProvider;
+import com.android.wallpaper3.asset.Asset;
+import com.android.wallpaper3.module.DrawableLayerResolver;
+import com.android.wallpaper3.module.InjectorProvider;
 
 public class ThemeBundleThumbAsset extends Asset {
     private final Resources mRes;

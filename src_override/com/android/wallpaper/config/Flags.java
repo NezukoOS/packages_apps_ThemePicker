@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.wallpaper.config;
+package com.android.wallpaper3.config;
 
 public class Flags extends BaseFlags {
 }

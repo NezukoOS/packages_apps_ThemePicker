@@ -39,11 +39,11 @@ import com.android.customization.module.CustomizationInjector;
 import com.android.customization.module.CustomizationPreferences;
 import com.android.customization.picker.ViewOnlyFullPreviewActivity;
 import com.android.customization.picker.WallpaperPreviewer;
-import com.android.wallpaper.R;
-import com.android.wallpaper.model.WallpaperInfo;
-import com.android.wallpaper.module.CurrentWallpaperInfoFactory;
-import com.android.wallpaper.module.InjectorProvider;
-import com.android.wallpaper.picker.AppbarFragment;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.model.WallpaperInfo;
+import com.android.wallpaper3.module.CurrentWallpaperInfoFactory;
+import com.android.wallpaper3.module.InjectorProvider;
+import com.android.wallpaper3.picker.AppbarFragment;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,6 +1,6 @@
 package com.android.customization.testing;
 
-import com.android.wallpaper.module.PackageStatusNotifier;
+import com.android.wallpaper3.module.PackageStatusNotifier;
 
 /**
  * Test implementation of {@link PackageStatusNotifier}.

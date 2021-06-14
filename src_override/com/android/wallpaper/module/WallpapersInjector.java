@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.wallpaper.module;
+package com.android.wallpaper3.module;
 
 import android.content.Context;
 import android.content.Intent;
@@ -21,11 +21,11 @@ import android.net.Uri;
 
 import androidx.fragment.app.Fragment;
 
-import com.android.wallpaper.model.CategoryProvider;
-import com.android.wallpaper.model.WallpaperInfo;
-import com.android.wallpaper.monitor.PerformanceMonitor;
-import com.android.wallpaper.picker.ImagePreviewFragment;
-import com.android.wallpaper.picker.TopLevelPickerActivity;
+import com.android.wallpaper3.model.CategoryProvider;
+import com.android.wallpaper3.model.WallpaperInfo;
+import com.android.wallpaper3.monitor.PerformanceMonitor;
+import com.android.wallpaper3.picker.ImagePreviewFragment;
+import com.android.wallpaper3.picker.TopLevelPickerActivity;
 
 /**
  * A concrete, real implementation of the dependency provider.

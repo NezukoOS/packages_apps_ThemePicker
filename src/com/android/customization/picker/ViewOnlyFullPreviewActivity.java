@@ -29,9 +29,9 @@ import androidx.fragment.app.FragmentActivity;
 
 import com.android.customization.picker.grid.GridFullPreviewFragment;
 import com.android.customization.picker.theme.ThemeFullPreviewFragment;
-import com.android.wallpaper.R;
-import com.android.wallpaper.widget.BottomActionBar;
-import com.android.wallpaper.widget.BottomActionBar.BottomActionBarHost;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.widget.BottomActionBar;
+import com.android.wallpaper3.widget.BottomActionBar.BottomActionBarHost;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

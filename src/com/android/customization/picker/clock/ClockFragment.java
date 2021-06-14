@@ -39,11 +39,11 @@ import com.android.customization.module.ThemesUserEventLogger;
 import com.android.customization.picker.BasePreviewAdapter;
 import com.android.customization.picker.BasePreviewAdapter.PreviewPage;
 import com.android.customization.widget.OptionSelectorController;
-import com.android.wallpaper.R;
-import com.android.wallpaper.asset.Asset;
-import com.android.wallpaper.module.InjectorProvider;
-import com.android.wallpaper.picker.AppbarFragment;
-import com.android.wallpaper.widget.PreviewPager;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.asset.Asset;
+import com.android.wallpaper3.module.InjectorProvider;
+import com.android.wallpaper3.picker.AppbarFragment;
+import com.android.wallpaper3.widget.PreviewPager;
 
 import java.util.List;
 

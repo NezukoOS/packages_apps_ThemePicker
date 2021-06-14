@@ -49,12 +49,12 @@ LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 
 LOCAL_MANIFEST_FILE := AndroidManifest.xml
 
-LOCAL_REQUIRED_MODULES := default_permissions_com.android.wallpaper.xml privapp_whitelist_com.android.wallpaper.xml
+LOCAL_REQUIRED_MODULES := default_permissions_com.android.wallpaper3.xml privapp_whitelist_com.android.wallpaper3.xml
 
 include $(BUILD_PACKAGE)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := default_permissions_com.android.wallpaper.xml
+LOCAL_MODULE := default_permissions_com.android.wallpaper3.xml
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_PATH := $(TARGET_OUT_SYSTEM_EXT_ETC)/default-permissions
@@ -63,7 +63,7 @@ LOCAL_SRC_FILES := $(LOCAL_MODULE)
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := privapp_whitelist_com.android.wallpaper.xml
+LOCAL_MODULE := privapp_whitelist_com.android.wallpaper3.xml
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_PATH := $(TARGET_OUT_SYSTEM_EXT_ETC)/permissions

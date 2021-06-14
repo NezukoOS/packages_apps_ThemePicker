@@ -46,10 +46,10 @@ import com.android.customization.model.CustomizationManager;
 import com.android.customization.model.CustomizationOption;
 import com.android.customization.model.theme.ThemeBundle.PreviewInfo.ShapeAppIcon;
 import com.android.customization.widget.DynamicAdaptiveIconDrawable;
-import com.android.wallpaper.R;
-import com.android.wallpaper.asset.Asset;
-import com.android.wallpaper.asset.BitmapCachingAsset;
-import com.android.wallpaper.model.WallpaperInfo;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.asset.Asset;
+import com.android.wallpaper3.asset.BitmapCachingAsset;
+import com.android.wallpaper3.model.WallpaperInfo;
 
 import org.json.JSONException;
 import org.json.JSONObject;

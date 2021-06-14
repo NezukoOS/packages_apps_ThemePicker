@@ -3,7 +3,7 @@ package com.android.customization.testing;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.LayerDrawable;
 
-import com.android.wallpaper.module.DrawableLayerResolver;
+import com.android.wallpaper3.module.DrawableLayerResolver;
 
 /**
  * Test implementation of {@link DrawableLayerResolver}.

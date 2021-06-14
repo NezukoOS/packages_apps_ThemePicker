@@ -17,8 +17,8 @@ import androidx.annotation.StringRes;
 import com.android.customization.model.theme.custom.CustomThemeManager;
 import com.android.customization.model.theme.custom.ThemeComponentOption;
 import com.android.customization.model.theme.custom.ThemeComponentOptionProvider;
-import com.android.wallpaper.R;
-import com.android.wallpaper.picker.AppbarFragment;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.picker.AppbarFragment;
 
 abstract class CustomThemeStepFragment extends AppbarFragment {
     protected static final String ARG_KEY_POSITION = "CustomThemeStepFragment.position";

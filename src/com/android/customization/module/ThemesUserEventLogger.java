@@ -18,7 +18,7 @@ package com.android.customization.module;
 import com.android.customization.model.clock.Clockface;
 import com.android.customization.model.grid.GridOption;
 import com.android.customization.model.theme.ThemeBundle;
-import com.android.wallpaper.module.UserEventLogger;
+import com.android.wallpaper3.module.UserEventLogger;
 
 /**
  * Extension of {@link UserEventLogger} that adds ThemePicker specific events.

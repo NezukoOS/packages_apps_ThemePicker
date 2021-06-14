@@ -13,8 +13,8 @@ import android.text.TextUtils;
 
 import com.android.customization.model.CustomizationManager.OptionsFetchedListener;
 import com.android.customization.model.clock.Clockface.Builder;
-import com.android.wallpaper.R;
-import com.android.wallpaper.asset.ContentUriAsset;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.asset.ContentUriAsset;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;

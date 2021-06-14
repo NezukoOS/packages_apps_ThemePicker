@@ -23,7 +23,7 @@ import androidx.annotation.Nullable;
 
 import com.android.customization.model.CustomizationManager;
 import com.android.customization.model.theme.ThemeBundle;
-import com.android.wallpaper.R;
+import com.android.wallpaper3.R;
 
 import java.util.Map;
 import java.util.UUID;

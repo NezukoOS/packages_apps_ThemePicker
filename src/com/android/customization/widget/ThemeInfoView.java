@@ -26,7 +26,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.android.customization.model.theme.ThemeBundle;
-import com.android.wallpaper.R;
+import com.android.wallpaper3.R;
 
 /** A view for displaying style info. */
 public class ThemeInfoView extends LinearLayout {

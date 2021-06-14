@@ -43,7 +43,7 @@ import com.android.customization.model.theme.OverlayManagerCompat;
 import com.android.customization.model.theme.ThemeBundle.PreviewInfo.ShapeAppIcon;
 import com.android.customization.model.theme.custom.ThemeComponentOption.ShapeOption;
 import com.android.customization.widget.DynamicAdaptiveIconDrawable;
-import com.android.wallpaper.R;
+import com.android.wallpaper3.R;
 
 import java.util.ArrayList;
 import java.util.List;

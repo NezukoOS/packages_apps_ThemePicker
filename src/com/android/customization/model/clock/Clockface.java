@@ -21,8 +21,8 @@ import android.widget.ImageView;
 
 import com.android.customization.model.CustomizationManager;
 import com.android.customization.model.CustomizationOption;
-import com.android.wallpaper.R;
-import com.android.wallpaper.asset.Asset;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.asset.Asset;
 
 public class Clockface implements CustomizationOption<Clockface> {
 

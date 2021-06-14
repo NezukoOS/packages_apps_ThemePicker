@@ -28,10 +28,10 @@ import androidx.test.rule.ActivityTestRule;
 import com.android.customization.picker.theme.ThemeFragment;
 import com.android.customization.testing.TestCustomizationInjector;
 import com.android.customization.testing.TestThemeManager;
-import com.android.wallpaper.R;
-import com.android.wallpaper.module.InjectorProvider;
-import com.android.wallpaper.picker.CategoryFragment;
-import com.android.wallpaper.picker.TopLevelPickerActivity;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.module.InjectorProvider;
+import com.android.wallpaper3.picker.CategoryFragment;
+import com.android.wallpaper3.picker.TopLevelPickerActivity;
 
 import org.junit.After;
 import org.junit.Before;

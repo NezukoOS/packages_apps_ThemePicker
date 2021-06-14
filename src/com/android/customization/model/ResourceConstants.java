@@ -19,7 +19,7 @@ import android.content.Context;
 import android.content.res.Resources;
 import android.provider.Settings.Secure;
 
-import com.android.wallpaper.R;
+import com.android.wallpaper3.R;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -58,7 +58,7 @@ import com.android.customization.model.CustomizationOption;
 import com.android.customization.model.ResourceConstants;
 import com.android.customization.model.theme.ThemeBundle.PreviewInfo.ShapeAppIcon;
 import com.android.customization.model.theme.custom.CustomTheme.Builder;
-import com.android.wallpaper.R;
+import com.android.wallpaper3.R;
 
 import java.util.ArrayList;
 import java.util.HashMap;

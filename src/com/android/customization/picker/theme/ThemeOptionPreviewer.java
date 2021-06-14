@@ -48,10 +48,10 @@ import androidx.lifecycle.OnLifecycleEvent;
 import com.android.customization.model.theme.ThemeBundle;
 import com.android.customization.model.theme.ThemeBundle.PreviewInfo;
 import com.android.customization.model.theme.ThemeBundle.PreviewInfo.ShapeAppIcon;
-import com.android.wallpaper.R;
-import com.android.wallpaper.util.ScreenSizeCalculator;
-import com.android.wallpaper.util.TimeUtils;
-import com.android.wallpaper.util.TimeUtils.TimeTicker;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.util.ScreenSizeCalculator;
+import com.android.wallpaper3.util.TimeUtils;
+import com.android.wallpaper3.util.TimeUtils.TimeTicker;
 
 import java.util.Calendar;
 import java.util.List;

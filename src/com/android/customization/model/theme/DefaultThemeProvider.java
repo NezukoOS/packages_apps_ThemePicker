@@ -43,8 +43,8 @@ import com.android.customization.model.theme.ThemeBundle.Builder;
 import com.android.customization.model.theme.ThemeBundle.PreviewInfo.ShapeAppIcon;
 import com.android.customization.model.theme.custom.CustomTheme;
 import com.android.customization.module.CustomizationPreferences;
-import com.android.wallpaper.R;
-import com.android.wallpaper.asset.ResourceAsset;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.asset.ResourceAsset;
 
 import com.bumptech.glide.request.RequestOptions;
 import com.google.android.apps.wallpaper.asset.ThemeBundleThumbAsset;

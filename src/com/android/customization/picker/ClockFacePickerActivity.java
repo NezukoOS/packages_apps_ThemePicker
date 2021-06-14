@@ -25,7 +25,7 @@ import com.android.customization.model.clock.Clockface;
 import com.android.customization.model.clock.ContentProviderClockProvider;
 import com.android.customization.picker.clock.ClockFragment;
 import com.android.customization.picker.clock.ClockFragment.ClockFragmentHost;
-import com.android.wallpaper.R;
+import com.android.wallpaper3.R;
 
 /**
  * Activity allowing for the clock face picker to be linked to from other setup flows.

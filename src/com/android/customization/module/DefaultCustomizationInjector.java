@@ -29,15 +29,15 @@ import com.android.customization.model.theme.OverlayManagerCompat;
 import com.android.customization.model.theme.ThemeBundleProvider;
 import com.android.customization.model.theme.ThemeManager;
 import com.android.customization.picker.CustomizationPickerActivity;
-import com.android.wallpaper.model.CategoryProvider;
-import com.android.wallpaper.model.WallpaperInfo;
-import com.android.wallpaper.module.BaseWallpaperInjector;
-import com.android.wallpaper.module.DefaultCategoryProvider;
-import com.android.wallpaper.module.LoggingOptInStatusProvider;
-import com.android.wallpaper.module.WallpaperPreferences;
-import com.android.wallpaper.module.WallpaperRotationRefresher;
-import com.android.wallpaper.monitor.PerformanceMonitor;
-import com.android.wallpaper.picker.PreviewFragment;
+import com.android.wallpaper3.model.CategoryProvider;
+import com.android.wallpaper3.model.WallpaperInfo;
+import com.android.wallpaper3.module.BaseWallpaperInjector;
+import com.android.wallpaper3.module.DefaultCategoryProvider;
+import com.android.wallpaper3.module.LoggingOptInStatusProvider;
+import com.android.wallpaper3.module.WallpaperPreferences;
+import com.android.wallpaper3.module.WallpaperRotationRefresher;
+import com.android.wallpaper3.monitor.PerformanceMonitor;
+import com.android.wallpaper3.picker.PreviewFragment;
 
 public class DefaultCustomizationInjector extends BaseWallpaperInjector
         implements CustomizationInjector {

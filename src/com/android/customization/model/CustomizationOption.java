@@ -19,7 +19,7 @@ import android.view.View;
 
 import androidx.annotation.LayoutRes;
 
-import com.android.wallpaper.R;
+import com.android.wallpaper3.R;
 
 
 /**
@@ -47,7 +47,7 @@ public interface CustomizationOption <T extends CustomizationOption> {
 
     /**
      * Return the id of the layout used to show this option in the UI. It must contain a view with
-     * id {@link com.android.wallpaper.R.id#option_tile} that will be passed to
+     * id {@link com.android.wallpaper3.R.id#option_tile} that will be passed to
      * {@link #bindThumbnailTile(View)} on bind time, and optionally a TextView with id
      * {@link R.id#option_label} that will be populated with the value from {@link #getTitle()} if
      * present.

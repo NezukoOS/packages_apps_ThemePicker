@@ -51,8 +51,8 @@ import com.android.customization.model.theme.custom.ThemeComponentOptionProvider
 import com.android.customization.module.CustomizationInjector;
 import com.android.customization.module.ThemesUserEventLogger;
 import com.android.customization.picker.theme.CustomThemeStepFragment.CustomThemeComponentStepHost;
-import com.android.wallpaper.R;
-import com.android.wallpaper.module.InjectorProvider;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.module.InjectorProvider;
 
 import org.json.JSONException;
 

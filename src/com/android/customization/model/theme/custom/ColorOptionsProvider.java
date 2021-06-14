@@ -42,7 +42,7 @@ import androidx.core.graphics.PathParser;
 import com.android.customization.model.ResourceConstants;
 import com.android.customization.model.theme.OverlayManagerCompat;
 import com.android.customization.model.theme.custom.ThemeComponentOption.ColorOption;
-import com.android.wallpaper.R;
+import com.android.wallpaper3.R;
 
 import java.util.ArrayList;
 import java.util.List;

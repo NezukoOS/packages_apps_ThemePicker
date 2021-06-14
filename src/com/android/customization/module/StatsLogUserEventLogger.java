@@ -28,7 +28,7 @@ import com.android.customization.model.clock.Clockface;
 import com.android.customization.model.grid.GridOption;
 import com.android.customization.model.theme.ThemeBundle;
 import com.android.systemui.shared.system.SysUiStatsLog;
-import com.android.wallpaper.module.NoOpUserEventLogger;
+import com.android.wallpaper3.module.NoOpUserEventLogger;
 
 import java.util.Map;
 import java.util.Objects;

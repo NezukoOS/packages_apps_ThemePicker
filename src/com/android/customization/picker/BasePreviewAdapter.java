@@ -30,8 +30,8 @@ import androidx.core.view.ViewCompat;
 import androidx.viewpager.widget.PagerAdapter;
 
 import com.android.customization.picker.BasePreviewAdapter.PreviewPage;
-import com.android.wallpaper.util.SizeCalculator;
-import com.android.wallpaper.widget.PreviewPager;
+import com.android.wallpaper3.util.SizeCalculator;
+import com.android.wallpaper3.widget.PreviewPager;
 
 import java.util.ArrayList;
 import java.util.List;

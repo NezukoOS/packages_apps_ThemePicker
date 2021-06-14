@@ -26,10 +26,10 @@ import android.util.Log;
 import androidx.annotation.DrawableRes;
 import androidx.annotation.StringRes;
 
-import com.android.wallpaper.asset.Asset;
-import com.android.wallpaper.asset.ResourceAsset;
-import com.android.wallpaper.model.InlinePreviewIntentFactory;
-import com.android.wallpaper.model.WallpaperInfo;
+import com.android.wallpaper3.asset.Asset;
+import com.android.wallpaper3.asset.ResourceAsset;
+import com.android.wallpaper3.model.InlinePreviewIntentFactory;
+import com.android.wallpaper3.model.WallpaperInfo;
 
 import java.util.ArrayList;
 import java.util.List;

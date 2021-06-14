@@ -4,7 +4,7 @@ import com.android.customization.model.clock.Clockface;
 import com.android.customization.model.grid.GridOption;
 import com.android.customization.model.theme.ThemeBundle;
 import com.android.customization.module.ThemesUserEventLogger;
-import com.android.wallpaper.testing.TestUserEventLogger;
+import com.android.wallpaper3.testing.TestUserEventLogger;
 
 /**
  * Test implementation of {@link ThemesUserEventLogger}.

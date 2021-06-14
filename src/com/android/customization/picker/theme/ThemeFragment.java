@@ -22,9 +22,9 @@ import static com.android.customization.picker.theme.ThemeFullPreviewFragment.EX
 import static com.android.customization.picker.theme.ThemeFullPreviewFragment.EXTRA_THEME_OPTION;
 import static com.android.customization.picker.theme.ThemeFullPreviewFragment.EXTRA_THEME_OPTION_TITLE;
 import static com.android.customization.picker.theme.ThemeFullPreviewFragment.EXTRA_WALLPAPER_INFO;
-import static com.android.wallpaper.widget.BottomActionBar.BottomAction.APPLY;
-import static com.android.wallpaper.widget.BottomActionBar.BottomAction.CUSTOMIZE;
-import static com.android.wallpaper.widget.BottomActionBar.BottomAction.INFORMATION;
+import static com.android.wallpaper3.widget.BottomActionBar.BottomAction.APPLY;
+import static com.android.wallpaper3.widget.BottomActionBar.BottomAction.CUSTOMIZE;
+import static com.android.wallpaper3.widget.BottomActionBar.BottomAction.INFORMATION;
 
 import android.content.Context;
 import android.content.Intent;
@@ -52,13 +52,13 @@ import com.android.customization.picker.ViewOnlyFullPreviewActivity;
 import com.android.customization.picker.WallpaperPreviewer;
 import com.android.customization.widget.OptionSelectorController;
 import com.android.customization.widget.ThemeInfoView;
-import com.android.wallpaper.R;
-import com.android.wallpaper.model.WallpaperInfo;
-import com.android.wallpaper.module.CurrentWallpaperInfoFactory;
-import com.android.wallpaper.module.InjectorProvider;
-import com.android.wallpaper.picker.AppbarFragment;
-import com.android.wallpaper.widget.BottomActionBar;
-import com.android.wallpaper.widget.BottomActionBar.AccessibilityCallback;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.model.WallpaperInfo;
+import com.android.wallpaper3.module.CurrentWallpaperInfoFactory;
+import com.android.wallpaper3.module.InjectorProvider;
+import com.android.wallpaper3.picker.AppbarFragment;
+import com.android.wallpaper3.widget.BottomActionBar;
+import com.android.wallpaper3.widget.BottomActionBar.AccessibilityCallback;
 
 import java.util.List;
 

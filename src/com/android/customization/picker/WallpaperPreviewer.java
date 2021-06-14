@@ -34,16 +34,16 @@ import androidx.lifecycle.Lifecycle;
 import androidx.lifecycle.LifecycleObserver;
 import androidx.lifecycle.OnLifecycleEvent;
 
-import com.android.wallpaper.R;
-import com.android.wallpaper.model.LiveWallpaperInfo;
-import com.android.wallpaper.model.WallpaperInfo;
-import com.android.wallpaper.util.ScreenSizeCalculator;
-import com.android.wallpaper.util.SizeCalculator;
-import com.android.wallpaper.util.WallpaperConnection;
-import com.android.wallpaper.util.WallpaperConnection.WallpaperConnectionListener;
-import com.android.wallpaper.util.WallpaperSurfaceCallback;
-import com.android.wallpaper.widget.LiveTileOverlay;
-import com.android.wallpaper.widget.WallpaperColorsLoader;
+import com.android.wallpaper3.R;
+import com.android.wallpaper3.model.LiveWallpaperInfo;
+import com.android.wallpaper3.model.WallpaperInfo;
+import com.android.wallpaper3.util.ScreenSizeCalculator;
+import com.android.wallpaper3.util.SizeCalculator;
+import com.android.wallpaper3.util.WallpaperConnection;
+import com.android.wallpaper3.util.WallpaperConnection.WallpaperConnectionListener;
+import com.android.wallpaper3.util.WallpaperSurfaceCallback;
+import com.android.wallpaper3.widget.LiveTileOverlay;
+import com.android.wallpaper3.widget.WallpaperColorsLoader;
 
 /** A class to load the wallpaper to the view. */
 public class WallpaperPreviewer implements LifecycleObserver {

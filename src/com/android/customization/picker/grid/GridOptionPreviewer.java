@@ -23,8 +23,8 @@ import android.view.ViewGroup;
 
 import com.android.customization.model.grid.GridOption;
 import com.android.customization.model.grid.GridOptionsManager;
-import com.android.wallpaper.picker.WorkspaceSurfaceHolderCallback;
-import com.android.wallpaper.util.SurfaceViewUtils;
+import com.android.wallpaper3.picker.WorkspaceSurfaceHolderCallback;
+import com.android.wallpaper3.util.SurfaceViewUtils;
 
 /** A class to load the {@link GridOption} preview to the view. */
 class GridOptionPreviewer {

@@ -10,10 +10,10 @@ import com.android.customization.model.theme.ThemeManager;
 import com.android.customization.module.CustomizationInjector;
 import com.android.customization.module.CustomizationPreferences;
 import com.android.customization.module.ThemesUserEventLogger;
-import com.android.wallpaper.module.DrawableLayerResolver;
-import com.android.wallpaper.module.PackageStatusNotifier;
-import com.android.wallpaper.module.UserEventLogger;
-import com.android.wallpaper.testing.TestInjector;
+import com.android.wallpaper3.module.DrawableLayerResolver;
+import com.android.wallpaper3.module.PackageStatusNotifier;
+import com.android.wallpaper3.module.UserEventLogger;
+import com.android.wallpaper3.testing.TestInjector;
 
 /**
  * Test implementation of the dependency injector.

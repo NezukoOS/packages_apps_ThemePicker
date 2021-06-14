@@ -18,7 +18,7 @@ package com.android.customization.picker;
 import android.app.Application;
 
 import com.android.customization.module.DefaultCustomizationInjector;
-import com.android.wallpaper.module.InjectorProvider;
+import com.android.wallpaper3.module.InjectorProvider;
 
 public class CustomizationPickerApplication extends Application {
     @Override
