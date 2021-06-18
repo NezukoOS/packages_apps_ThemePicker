@@ -15,7 +15,7 @@
  */
 package com.android.customization.module;
 
-import com.android.wallpaper3.module.WallpaperPreferences;
+import com.android.wallpaper.module.WallpaperPreferences;
 
 public interface CustomizationPreferences extends WallpaperPreferences {
 

@@ -31,7 +31,7 @@ import android.util.Log;
 import com.android.customization.model.ResourceConstants;
 import com.android.customization.model.theme.OverlayManagerCompat;
 import com.android.customization.model.theme.custom.ThemeComponentOption.FontOption;
-import com.android.wallpaper3.R;
+import com.android.wallpaper.R;
 
 /**
  * Implementation of {@link ThemeComponentOptionProvider} that reads {@link FontOption}s from
